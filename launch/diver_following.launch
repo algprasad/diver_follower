@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<launch>
+	<!-- Launch darknet ros -->
+	<include file="$(find darknet_ros)/launch/darknet_alg.launch"/>
+	
+	<!-- diver following main node -->
+	<node name="diver_following"
+		pkg="diver_follower"
+		type="diver_follower_sync"/>
+
+</launch>

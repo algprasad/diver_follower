@@ -1,0 +1,4 @@
+1. Get the main launch file to pubilsh all transformations
+2. Convert all transformation using tfs instead of using Eigens so as to keep it clean
+3. Get all the numerical values from .yaml file
+4.

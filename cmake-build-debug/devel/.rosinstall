@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/setup.sh
