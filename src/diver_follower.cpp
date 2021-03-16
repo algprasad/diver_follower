@@ -28,7 +28,7 @@ geometry_msgs::PoseStamped current_robot_pose;
 
 void callback(const darknet_ros_msgs::BoundingBoxesConstPtr& boxes_left,
         const darknet_ros_msgs::BoundingBoxesConstPtr& boxes_right)//,
-       // const geometry_msgs::PoseStampedConstPtr& robot_pose)
+       // const geometry_msgs::PoseStampedConstPtr& robot_current_pose)
 {
     darknet_ros_msgs::BoundingBox box_left =  boxes_left->bounding_boxes[0];
     darknet_ros_msgs::BoundingBox box_right =  boxes_right->bounding_boxes[0];
@@ -132,7 +132,7 @@ void callback(const darknet_ros_msgs::BoundingBoxesConstPtr& boxes_left,
 
 void callback_updated(const darknet_ros_msgs::BoundingBoxesConstPtr& boxes_left,
               const darknet_ros_msgs::BoundingBoxesConstPtr& boxes_right)//,
-// const geometry_msgs::PoseStampedConstPtr& robot_pose)
+// const geometry_msgs::PoseStampedConstPtr& robot_current_pose)
 {
     std::cout<<"New callback is being called"<<std::endl;
     darknet_ros_msgs::BoundingBox box_left = boxes_left->bounding_boxes[0];

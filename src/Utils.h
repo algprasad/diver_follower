@@ -6,6 +6,7 @@
 #define DIVER_FOLLOWER_UTILS_H
 
 #include <tf/transform_broadcaster.h>
+#include <Eigen/Dense>
 
 void pixelTo3DPoint(const sensor_msgs::PointCloud2 pCloud, const int u, const int v, geometry_msgs::Point &p)
 {
@@ -59,6 +60,18 @@ void publishTf(geometry_msgs::PoseStamped pose, std::string name){
 }
 
 void publishCameraTf(geometry_msgs::PoseStamped drone_pose){
+
+}
+
+void setMat4dFromPose(geometry_msgs::PoseStamped& pose, Eigen::Matrix4d& mat){
+    Eigen::Quaterniond quaternion(pose.pose.orientation.w, pose.pose.orientation.x, pose.pose.orientation.y, pose.pose.orientation.z);
+    Eigen::Vector3d position(pose.pose.position.x, pose.pose.position.y, pose.pose.position.z);
+    Eigen::Matrix3d mat3d(quaternion);
+    mat << mat3d(0,0), mat3d(0,1), mat3d(0,2), position(0),
+            mat3d(1,0), mat3d(1,1), mat3d(1,2), position(1),
+            mat3d(2,0), mat3d(2,1), mat3d(2,2), position(2),
+            0, 0, 0, 1;
+
 
 }
 

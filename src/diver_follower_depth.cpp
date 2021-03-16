@@ -303,7 +303,7 @@ void boundingBoxDepthImageCallback(const darknet_ros_msgs::BoundingBoxesConstPtr
             pixelTo3DPoint(main_point_cloud, u, v, temp_point);
             //std::cout<<temp_point<<std::endl;
             count_total_points++;
-            if(!isnan(temp_point.z) && !isnan(temp_point.x) && !isnan(temp_point.y)){
+            if(!std::isnan(temp_point.z) && !std::isnan(temp_point.x) && !std::isnan(temp_point.y)){
                 sum_x+= temp_point.x;
                 sum_y+= temp_point.y;
                 sum_z+= temp_point.z;

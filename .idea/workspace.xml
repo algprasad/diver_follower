@@ -2,56 +2,72 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="diver_follower" targetName="sensor_msgs_generate_messages_eus" />
+      <config projectName="diver_follower" targetName="nav_msgs_generate_messages_cpp" />
       <config projectName="diver_follower" targetName="bond_generate_messages_lisp" />
-      <config projectName="diver_follower" targetName="pcl_msgs_generate_messages_py" />
       <config projectName="diver_follower" targetName="std_srvs_generate_messages_lisp" />
-      <config projectName="diver_follower" targetName="std_msgs_generate_messages_py" />
+      <config projectName="diver_follower" targetName="grid_map_header_generate_messages_nodejs" />
       <config projectName="diver_follower" targetName="actionlib_msgs_generate_messages_nodejs" />
-      <config projectName="diver_follower" targetName="tf_generate_messages_cpp" />
+      <config projectName="diver_follower" targetName="darknet_ros_msgs_generate_messages_py" />
       <config projectName="diver_follower" targetName="std_msgs_generate_messages_lisp" />
       <config projectName="diver_follower" targetName="tf2_msgs_generate_messages_nodejs" />
-      <config projectName="diver_follower" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="diver_follower" targetName="grid_map_header_generate_messages_py" />
+      <config projectName="diver_follower" targetName="visualization_msgs_generate_messages_lisp" />
+      <config projectName="diver_follower" targetName="grid_map_msgs_generate_messages_nodejs" />
       <config projectName="diver_follower" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="diver_follower" targetName="rosgraph_msgs_generate_messages_py" />
       <config projectName="diver_follower" targetName="sensor_msgs_generate_messages_py" />
-      <config projectName="diver_follower" targetName="download_extra_data" />
-      <config projectName="diver_follower" targetName="pcl_ros_gencfg" />
+      <config projectName="diver_follower" targetName="diver_measured_pose" />
+      <config projectName="diver_follower" targetName="nodelet_generate_messages_eus" />
+      <config projectName="diver_follower" targetName="nav_msgs_generate_messages_py" />
       <config projectName="diver_follower" targetName="geometry_msgs_generate_messages_lisp" />
       <config projectName="diver_follower" targetName="actionlib_msgs_generate_messages_eus" />
       <config projectName="diver_follower" targetName="roscpp_generate_messages_cpp" />
       <config projectName="diver_follower" targetName="darknet_ros_msgs_generate_messages_eus" />
       <config projectName="diver_follower" targetName="gtest_main" />
+      <config projectName="diver_follower" targetName="grid_map_msgs_generate_messages_py" />
       <config projectName="diver_follower" targetName="tests" />
-      <config projectName="diver_follower" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="diver_follower" targetName="visualization_msgs_generate_messages_cpp" />
+      <config projectName="diver_follower" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="diver_follower" targetName="pcl_ros_gencfg" />
       <config projectName="diver_follower" targetName="pcl_msgs_generate_messages_cpp" />
-      <config projectName="diver_follower" targetName="bond_generate_messages_cpp" />
+      <config projectName="diver_follower" targetName="nav_msgs_generate_messages_eus" />
       <config projectName="diver_follower" targetName="diver_depth_calculator" />
+      <config projectName="diver_follower" targetName="topic_tools_generate_messages_cpp" />
+      <config projectName="diver_follower" targetName="doxygen" />
       <config projectName="diver_follower" targetName="dynamic_reconfigure_generate_messages_cpp" />
       <config projectName="diver_follower" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="diver_follower" targetName="visualization_msgs_generate_messages_py" />
       <config projectName="diver_follower" targetName="roscpp_generate_messages_py" />
       <config projectName="diver_follower" targetName="tf_generate_messages_eus" />
       <config projectName="diver_follower" targetName="diver_follower_depth" />
-      <config projectName="diver_follower" targetName="nodelet_generate_messages_eus" />
-      <config projectName="diver_follower" targetName="darknet_ros_msgs_generate_messages_py" />
+      <config projectName="diver_follower" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="diver_follower" targetName="_catkin_empty_exported_target" />
+      <config projectName="diver_follower" targetName="grid_map_msgs_generate_messages_eus" />
       <config projectName="diver_follower" targetName="actionlib_generate_messages_eus" />
-      <config projectName="diver_follower" targetName="nodelet_generate_messages_py" />
+      <config projectName="diver_follower" targetName="terrain_aware_diver_following" />
+      <config projectName="diver_follower" targetName="pcl_msgs_generate_messages_py" />
       <config projectName="diver_follower" targetName="dynamic_reconfigure_generate_messages_lisp" />
       <config projectName="diver_follower" targetName="actionlib_msgs_generate_messages_lisp" />
-      <config projectName="diver_follower" targetName="darknet_ros_msgs_generate_messages_nodejs" />
-      <config projectName="diver_follower" targetName="topic_tools_generate_messages_cpp" />
+      <config projectName="diver_follower" targetName="diver_follower" />
+      <config projectName="diver_follower" targetName="sensor_msgs_generate_messages_lisp" />
       <config projectName="diver_follower" targetName="topic_tools_generate_messages_eus" />
       <config projectName="diver_follower" targetName="rosgraph_msgs_generate_messages_lisp" />
       <config projectName="diver_follower" targetName="bond_generate_messages_py" />
       <config projectName="diver_follower" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="diver_follower" targetName="visualization_msgs_generate_messages_eus" />
       <config projectName="diver_follower" targetName="pcl_msgs_generate_messages_nodejs" />
       <config projectName="diver_follower" targetName="actionlib_msgs_generate_messages_py" />
       <config projectName="diver_follower" targetName="pcl_msgs_generate_messages_eus" />
       <config projectName="diver_follower" targetName="bond_generate_messages_eus" />
+      <config projectName="diver_follower" targetName="tf2_msgs_generate_messages_lisp" />
+      <config projectName="diver_follower" targetName="darknet_ros_msgs_generate_messages_cpp" />
+      <config projectName="diver_follower" targetName="dynamic_reconfigure_generate_messages_py" />
       <config projectName="diver_follower" targetName="dynamic_reconfigure_generate_messages_eus" />
       <config projectName="diver_follower" targetName="std_srvs_generate_messages_py" />
-      <config projectName="diver_follower" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="diver_follower" targetName="clean_test_results" />
       <config projectName="diver_follower" targetName="topic_tools_generate_messages_py" />
       <config projectName="diver_follower" targetName="actionlib_generate_messages_py" />
+      <config projectName="diver_follower" targetName="grid_map_header_generate_messages_eus" />
       <config projectName="diver_follower" targetName="tf_generate_messages_nodejs" />
       <config projectName="diver_follower" targetName="gtest" />
       <config projectName="diver_follower" targetName="topic_tools_generate_messages_nodejs" />
@@ -61,44 +77,53 @@
       <config projectName="diver_follower" targetName="actionlib_generate_messages_nodejs" />
       <config projectName="diver_follower" targetName="pcl_msgs_generate_messages_lisp" />
       <config projectName="diver_follower" targetName="diver_follower_sync" />
+      <config projectName="diver_follower" targetName="std_msgs_generate_messages_py" />
       <config projectName="diver_follower" targetName="roscpp_generate_messages_eus" />
       <config projectName="diver_follower" targetName="run_tests" />
-      <config projectName="diver_follower" targetName="diver_follower_disparity" />
-      <config projectName="diver_follower" targetName="dynamic_reconfigure_generate_messages_py" />
+      <config projectName="diver_follower" targetName="nodelet_generate_messages_nodejs" />
+      <config projectName="diver_follower" targetName="darknet_ros_msgs_generate_messages_nodejs" />
       <config projectName="diver_follower" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="diver_follower" targetName="tf_generate_messages_cpp" />
       <config projectName="diver_follower" targetName="sensor_msgs_generate_messages_nodejs" />
       <config projectName="diver_follower" targetName="std_srvs_generate_messages_cpp" />
+      <config projectName="diver_follower" targetName="nav_msgs_generate_messages_nodejs" />
+      <config projectName="diver_follower" targetName="grid_map_msgs_generate_messages_lisp" />
       <config projectName="diver_follower" targetName="nodelet_topic_tools_gencfg" />
-      <config projectName="diver_follower" targetName="tf2_msgs_generate_messages_lisp" />
-      <config projectName="diver_follower" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="diver_follower" targetName="visualization_msgs_generate_messages_nodejs" />
+      <config projectName="diver_follower" targetName="grid_map_header_generate_messages_lisp" />
       <config projectName="diver_follower" targetName="tf_generate_messages_lisp" />
-      <config projectName="diver_follower" targetName="std_srvs_generate_messages_nodejs" />
+      <config projectName="diver_follower" targetName="tf2_msgs_generate_messages_cpp" />
+      <config projectName="diver_follower" targetName="grid_map_header_generate_messages_cpp" />
       <config projectName="diver_follower" targetName="gmock_main" />
-      <config projectName="diver_follower" targetName="doxygen" />
-      <config projectName="diver_follower" targetName="std_msgs_generate_messages_eus" />
-      <config projectName="diver_follower" targetName="nodelet_generate_messages_nodejs" />
+      <config projectName="diver_follower" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="diver_follower" targetName="trajectory_generator" />
+      <config projectName="diver_follower" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="diver_follower" targetName="rosgraph_msgs_generate_messages_cpp" />
       <config projectName="diver_follower" targetName="dynamic_reconfigure_generate_messages_nodejs" />
       <config projectName="diver_follower" targetName="geometry_msgs_generate_messages_nodejs" />
-      <config projectName="diver_follower" targetName="diver_follower" />
-      <config projectName="diver_follower" targetName="tf2_msgs_generate_messages_cpp" />
-      <config projectName="diver_follower" targetName="rosgraph_msgs_generate_messages_py" />
-      <config projectName="diver_follower" targetName="rosgraph_msgs_generate_messages_cpp" />
-      <config projectName="diver_follower" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="diver_follower" targetName="sensor_msgs_generate_messages_eus" />
+      <config projectName="diver_follower" targetName="diver_tracking_filter" />
+      <config projectName="diver_follower" targetName="topic_tools_generate_messages_lisp" />
+      <config projectName="diver_follower" targetName="std_msgs_generate_messages_eus" />
       <config projectName="diver_follower" targetName="nodelet_generate_messages_lisp" />
       <config projectName="diver_follower" targetName="std_srvs_generate_messages_eus" />
       <config projectName="diver_follower" targetName="geometry_msgs_generate_messages_eus" />
-      <config projectName="diver_follower" targetName="std_msgs_generate_messages_nodejs" />
-      <config projectName="diver_follower" targetName="nodelet_generate_messages_cpp" />
-      <config projectName="diver_follower" targetName="tf_generate_messages_py" />
+      <config projectName="diver_follower" targetName="diver_follower_disparity" />
+      <config projectName="diver_follower" targetName="nodelet_generate_messages_py" />
+      <config projectName="diver_follower" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="diver_follower" targetName="diver_filtered_pose" />
+      <config projectName="diver_follower" targetName="nav_msgs_generate_messages_lisp" />
       <config projectName="diver_follower" targetName="tf2_msgs_generate_messages_eus" />
       <config projectName="diver_follower" targetName="actionlib_msgs_generate_messages_cpp" />
+      <config projectName="diver_follower" targetName="nodelet_generate_messages_cpp" />
+      <config projectName="diver_follower" targetName="bond_generate_messages_cpp" />
       <config projectName="diver_follower" targetName="darknet_ros_msgs_generate_messages_lisp" />
-      <config projectName="diver_follower" targetName="darknet_ros_msgs_generate_messages_cpp" />
-      <config projectName="diver_follower" targetName="roscpp_generate_messages_nodejs" />
-      <config projectName="diver_follower" targetName="clean_test_results" />
-      <config projectName="diver_follower" targetName="_catkin_empty_exported_target" />
-      <config projectName="diver_follower" targetName="topic_tools_generate_messages_lisp" />
+      <config projectName="diver_follower" targetName="std_srvs_generate_messages_nodejs" />
       <config projectName="diver_follower" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="diver_follower" targetName="tf_generate_messages_py" />
+      <config projectName="diver_follower" targetName="grid_map_msgs_generate_messages_cpp" />
+      <config projectName="diver_follower" targetName="download_extra_data" />
+      <config projectName="diver_follower" targetName="roscpp_generate_messages_nodejs" />
       <config projectName="diver_follower" targetName="gmock" />
       <config projectName="diver_follower" targetName="test_pcl" />
     </generated>
@@ -109,7 +134,87 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c67b3b95-d8c4-4485-9056-94795144253a" name="Default Changelist" comment="" />
+    <list default="true" id="c67b3b95-d8c4-4485-9056-94795144253a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/launch/diver_following_filtered_pose.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MeanImputation.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrackingFilter.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrackingFilter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrackingFilterbackup.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrackingFilterbackup.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diver_filtered_pose.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diver_measured_pose.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/terrain_aware_diver_following.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trajectory_generation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_depth_calculator.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_depth_calculator.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_depth_calculator.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_depth_calculator.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_depth_calculator.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_depth_calculator.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_depth_calculator.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_depth_calculator.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower.dir/src/diver_follower.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower.dir/src/diver_follower.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_depth.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_depth.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_depth.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_depth.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_depth.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_depth.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_depth.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_depth.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_depth.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_depth.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_disparity.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_disparity.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_disparity.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_disparity.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_disparity.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_disparity.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_disparity.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_disparity.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_disparity.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_disparity.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_sync.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_sync.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_sync.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_sync.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_sync.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_sync.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_sync.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_sync.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_sync.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_sync.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_sync.dir/src/diver_follower_3sync.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diver_follower_sync.dir/src/diver_follower_3sync.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_pcl.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_pcl.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_pcl.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_pcl.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_pcl.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_pcl.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_pcl.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_pcl.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_pcl.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_pcl.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/atomic_configure/_setup_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/atomic_configure/_setup_util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/catkin/catkin_generated/version/package.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/catkin/catkin_generated/version/package.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/catkin_generated/generate_cached_setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/catkin_generated/generate_cached_setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/catkin_generated/installspace/_setup_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/catkin_generated/installspace/_setup_util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/catkin_generated/setup_cached.sh" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/catkin_generated/setup_cached.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/catkin_generated/stamps/diver_follower/_setup_util.py.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/catkin_generated/stamps/diver_follower/_setup_util.py.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/catkin_generated/stamps/diver_follower/interrogate_setup_dot_py.py.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/catkin_generated/stamps/diver_follower/interrogate_setup_dot_py.py.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/devel/_setup_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/devel/_setup_util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/devel/lib/diver_follower/diver_follower" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/devel/lib/diver_follower/diver_follower" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/devel/lib/diver_follower/diver_follower_sync" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/devel/lib/diver_follower/diver_follower_sync" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/diver_follower.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/diver_follower.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/gtest/CMakeFiles/gmock.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/gtest/CMakeFiles/gmock.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/gtest/CMakeFiles/gmock.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/gtest/CMakeFiles/gmock.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/gtest/CMakeFiles/gmock_main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/gtest/CMakeFiles/gmock_main.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/gtest/CMakeFiles/gmock_main.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/gtest/CMakeFiles/gmock_main.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/gtest/gmock.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/gtest/gmock.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/gtest/gtest/CMakeFiles/gtest.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/gtest/gtest/CMakeFiles/gtest.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/gtest/gtest/CMakeFiles/gtest.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/gtest/gtest/CMakeFiles/gtest.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/gtest/gtest/CMakeFiles/gtest_main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/gtest/gtest/CMakeFiles/gtest_main.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/gtest/gtest/CMakeFiles/gtest_main.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/gtest/gtest/CMakeFiles/gtest_main.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/gtest/gtest/gtest.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/gtest/gtest/gtest.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Utils.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utils.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/diver_depth_calculator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/diver_depth_calculator.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/diver_follower.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/diver_follower.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/diver_follower_3sync.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/diver_follower_3sync.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/diver_follower_depth.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/diver_follower_depth.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/diver_follower_disparity.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/diver_follower_disparity.cpp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,12 +225,21 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectId" id="1gshtQ4VbCg8ta9PcuDy6BAvZCt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../darknet_ros/darknet_ros/CMakeLists.txt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.diver_follower_sync">
+  <component name="RunManager" selected="CMake Application.trajectory_generator">
     <configuration name="_catkin_empty_exported_target" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="_catkin_empty_exported_target" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -255,6 +369,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="diver_filtered_pose" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="diver_filtered_pose" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="diver_follower" RUN_TARGET_NAME="diver_filtered_pose">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="diver_follower" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="diver_follower" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="diver_follower" RUN_TARGET_NAME="diver_follower">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -271,6 +390,16 @@
       </method>
     </configuration>
     <configuration name="diver_follower_sync" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="diver_follower_sync" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="diver_follower" RUN_TARGET_NAME="diver_follower_sync">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="diver_measured_pose" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="diver_measured_pose" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="diver_follower" RUN_TARGET_NAME="diver_measured_pose">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="diver_tracking_filter" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="diver_tracking_filter" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="diver_follower" RUN_TARGET_NAME="diver_tracking_filter">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -350,12 +479,87 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="grid_map_header_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="grid_map_header_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="grid_map_header_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="grid_map_header_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="grid_map_header_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="grid_map_header_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="grid_map_header_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="grid_map_header_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="grid_map_header_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="grid_map_header_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="grid_map_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="grid_map_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="grid_map_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="grid_map_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="grid_map_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="grid_map_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="grid_map_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="grid_map_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="grid_map_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="grid_map_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="gtest" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="nav_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="nav_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="nav_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="nav_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="nav_msgs_generate_messages_py" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -550,6 +754,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="terrain_aware_diver_following" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="terrain_aware_diver_following" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="diver_follower" RUN_TARGET_NAME="terrain_aware_diver_following">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test_pcl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="test_pcl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="diver_follower" RUN_TARGET_NAME="test_pcl">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -635,6 +844,36 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="trajectory_generator" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="trajectory_generator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="diver_follower" RUN_TARGET_NAME="trajectory_generator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="visualization_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="visualization_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="visualization_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="visualization_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diver_follower" TARGET_NAME="visualization_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="CMake Application._catkin_empty_exported_target" />
       <item itemvalue="CMake Application.actionlib_generate_messages_cpp" />
@@ -659,10 +898,13 @@
       <item itemvalue="CMake Application.darknet_ros_msgs_generate_messages_nodejs" />
       <item itemvalue="CMake Application.darknet_ros_msgs_generate_messages_py" />
       <item itemvalue="CMake Application.diver_depth_calculator" />
+      <item itemvalue="CMake Application.diver_filtered_pose" />
       <item itemvalue="CMake Application.diver_follower" />
       <item itemvalue="CMake Application.diver_follower_depth" />
       <item itemvalue="CMake Application.diver_follower_disparity" />
       <item itemvalue="CMake Application.diver_follower_sync" />
+      <item itemvalue="CMake Application.diver_measured_pose" />
+      <item itemvalue="CMake Application.diver_tracking_filter" />
       <item itemvalue="CMake Application.download_extra_data" />
       <item itemvalue="CMake Application.doxygen" />
       <item itemvalue="CMake Application.dynamic_reconfigure_gencfg" />
@@ -676,6 +918,21 @@
       <item itemvalue="CMake Application.geometry_msgs_generate_messages_lisp" />
       <item itemvalue="CMake Application.geometry_msgs_generate_messages_nodejs" />
       <item itemvalue="CMake Application.geometry_msgs_generate_messages_py" />
+      <item itemvalue="CMake Application.grid_map_header_generate_messages_cpp" />
+      <item itemvalue="CMake Application.grid_map_header_generate_messages_eus" />
+      <item itemvalue="CMake Application.grid_map_header_generate_messages_lisp" />
+      <item itemvalue="CMake Application.grid_map_header_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.grid_map_header_generate_messages_py" />
+      <item itemvalue="CMake Application.grid_map_msgs_generate_messages_cpp" />
+      <item itemvalue="CMake Application.grid_map_msgs_generate_messages_eus" />
+      <item itemvalue="CMake Application.grid_map_msgs_generate_messages_lisp" />
+      <item itemvalue="CMake Application.grid_map_msgs_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.grid_map_msgs_generate_messages_py" />
+      <item itemvalue="CMake Application.nav_msgs_generate_messages_cpp" />
+      <item itemvalue="CMake Application.nav_msgs_generate_messages_eus" />
+      <item itemvalue="CMake Application.nav_msgs_generate_messages_lisp" />
+      <item itemvalue="CMake Application.nav_msgs_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.nav_msgs_generate_messages_py" />
       <item itemvalue="CMake Application.nodelet_generate_messages_cpp" />
       <item itemvalue="CMake Application.nodelet_generate_messages_eus" />
       <item itemvalue="CMake Application.nodelet_generate_messages_lisp" />
@@ -714,6 +971,7 @@
       <item itemvalue="CMake Application.std_srvs_generate_messages_lisp" />
       <item itemvalue="CMake Application.std_srvs_generate_messages_nodejs" />
       <item itemvalue="CMake Application.std_srvs_generate_messages_py" />
+      <item itemvalue="CMake Application.terrain_aware_diver_following" />
       <item itemvalue="CMake Application.test_pcl" />
       <item itemvalue="CMake Application.tests" />
       <item itemvalue="CMake Application.tf2_msgs_generate_messages_cpp" />
@@ -731,6 +989,12 @@
       <item itemvalue="CMake Application.topic_tools_generate_messages_lisp" />
       <item itemvalue="CMake Application.topic_tools_generate_messages_nodejs" />
       <item itemvalue="CMake Application.topic_tools_generate_messages_py" />
+      <item itemvalue="CMake Application.trajectory_generator" />
+      <item itemvalue="CMake Application.visualization_msgs_generate_messages_cpp" />
+      <item itemvalue="CMake Application.visualization_msgs_generate_messages_eus" />
+      <item itemvalue="CMake Application.visualization_msgs_generate_messages_lisp" />
+      <item itemvalue="CMake Application.visualization_msgs_generate_messages_nodejs" />
+      <item itemvalue="CMake Application.visualization_msgs_generate_messages_py" />
       <item itemvalue="CMake Application.gmock" />
       <item itemvalue="CMake Application.gmock_main" />
       <item itemvalue="CMake Application.gtest" />
@@ -784,10 +1048,79 @@
       <workItem from="1600738914366" duration="95000" />
       <workItem from="1600739676927" duration="104000" />
       <workItem from="1600740095379" duration="84000" />
+      <workItem from="1600773295910" duration="4000" />
+      <workItem from="1601749916278" duration="1474000" />
+      <workItem from="1603209795462" duration="551000" />
+      <workItem from="1603211773619" duration="118000" />
+      <workItem from="1603212118663" duration="181000" />
+      <workItem from="1603213171523" duration="28000" />
+      <workItem from="1603307619842" duration="1097000" />
+      <workItem from="1603331378298" duration="1363000" />
+      <workItem from="1603334540270" duration="25000" />
+      <workItem from="1603375168747" duration="696000" />
+      <workItem from="1603471322311" duration="1928000" />
+      <workItem from="1603480908765" duration="3159000" />
+      <workItem from="1603486391116" duration="3235000" />
+      <workItem from="1603567883716" duration="631000" />
+      <workItem from="1603569526379" duration="152000" />
+      <workItem from="1603570981087" duration="95000" />
+      <workItem from="1603572951026" duration="233000" />
+      <workItem from="1603573379689" duration="787000" />
+      <workItem from="1603574725904" duration="592000" />
+      <workItem from="1603575849190" duration="21000" />
+      <workItem from="1606344616286" duration="2330000" />
+      <workItem from="1606352435655" duration="6000" />
+      <workItem from="1613951099219" duration="2896000" />
+      <workItem from="1614035334424" duration="5192000" />
+      <workItem from="1614043162994" duration="1160000" />
+      <workItem from="1614044637824" duration="4529000" />
+      <workItem from="1614055188541" duration="557000" />
+      <workItem from="1614055857647" duration="534000" />
+      <workItem from="1614057041012" duration="6032000" />
+      <workItem from="1614068739137" duration="2073000" />
+      <workItem from="1614073638852" duration="1318000" />
+      <workItem from="1614114964555" duration="7152000" />
+      <workItem from="1614130592416" duration="1966000" />
+      <workItem from="1614142089763" duration="10497000" />
+      <workItem from="1614152875058" duration="14000" />
+      <workItem from="1614153188982" duration="2125000" />
+      <workItem from="1614155771326" duration="1391000" />
+      <workItem from="1614211858925" duration="6748000" />
+      <workItem from="1614235886807" duration="369000" />
+      <workItem from="1614238207496" duration="1423000" />
+      <workItem from="1614240608293" duration="2784000" />
+      <workItem from="1614290426634" duration="4223000" />
+      <workItem from="1614296716075" duration="1765000" />
+      <workItem from="1614311900250" duration="229000" />
+      <workItem from="1614312454080" duration="1156000" />
+      <workItem from="1614323869166" duration="1069000" />
+      <workItem from="1614332558429" duration="162000" />
+      <workItem from="1614333809568" duration="3981000" />
+      <workItem from="1614388615680" duration="1024000" />
+      <workItem from="1614390243236" duration="5309000" />
+      <workItem from="1614413415026" duration="968000" />
+      <workItem from="1614473678526" duration="2198000" />
+      <workItem from="1614480459500" duration="3155000" />
+      <workItem from="1614501182256" duration="6000" />
+      <workItem from="1614550806958" duration="256000" />
+      <workItem from="1614745815268" duration="49000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

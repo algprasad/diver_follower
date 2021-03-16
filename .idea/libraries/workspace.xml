@@ -32,7 +32,6 @@
       <root url="file://$USER_HOME$/underwater_ws/src/desistek_saga/desistek_saga_gazebo" />
       <root url="file://$USER_HOME$/terrain_following_ws/src/Firmware" />
       <root url="file://$USER_HOME$/terrain_following_ws/src/rotors_simulator/rotors_control" />
-      <root url="file://$USER_HOME$/underwater_ws/src/rex_rov_trajectory" />
       <root url="file://$USER_HOME$/terrain_following_ws/src/trajectory_generator_grid_map" />
       <root url="file://$USER_HOME$/underwater_ws/src/uuv_simulator/uuv_control/uuv_thruster_manager" />
       <root url="file://$USER_HOME$/freeflyer" />

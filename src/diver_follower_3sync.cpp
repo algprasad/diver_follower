@@ -39,7 +39,7 @@ geometry_msgs::PoseStamped setDroneTargetPose(geometry_msgs::PoseStamped diver_g
 
     //TODO Should get this from .yaml file
     //distance to maintain from the diver
-    double d2m = 3;
+    double d2m = 1;
     Eigen::Vector3d d2m_vector;
     d2m_vector <<  -d2m*unit_distance_vector(0),
             -d2m*unit_distance_vector(1),
@@ -57,7 +57,7 @@ geometry_msgs::PoseStamped setDroneTargetPose(geometry_msgs::PoseStamped diver_g
     return target_robot_pose;
 }
 
-geometry_msgs::PoseStamped calculateDiverGlobalPose(geometry_msgs::PoseStamped current_robot_pose, double diver_x_wrtc, double diver_y_wrtc, double diver_z_wrtc){
+geometry_msgs::PoseStamped getDiverGlobalPoseUtil(geometry_msgs::PoseStamped current_robot_pose, double diver_x_wrtc, double diver_y_wrtc, double diver_z_wrtc){
 
     //convert robot pose quaternion to rotation matrix
     Eigen::Matrix4d robot_pose_4d;
@@ -105,7 +105,7 @@ geometry_msgs::PoseStamped calculateDiverGlobalPose(geometry_msgs::PoseStamped c
 
 }
 
-geometry_msgs::PoseStamped getDiverPosewrtCamera(darknet_ros_msgs::BoundingBox bounding_box, sensor_msgs::PointCloud2 point_cloud, geometry_msgs::PoseStamped drone_pose){
+geometry_msgs::PoseStamped getDiverGlobalPose(darknet_ros_msgs::BoundingBox bounding_box, sensor_msgs::PointCloud2 point_cloud, geometry_msgs::PoseStamped drone_pose){
 
     //get the smaller bounding box with x% and y% shaved off
     int x_min, y_min, x_max, y_max;
@@ -126,7 +126,7 @@ geometry_msgs::PoseStamped getDiverPosewrtCamera(darknet_ros_msgs::BoundingBox b
             pixelTo3DPoint(point_cloud, u, v, temp_point);
             //std::cout<<temp_point<<std::endl;
             count_total_points++;
-            if(!isnan(temp_point.z) && !isnan(temp_point.x) && !isnan(temp_point.y)){
+            if(!std::isnan(temp_point.z) && !std::isnan(temp_point.x) && !std::isnan(temp_point.y)){
                 sum_x+= temp_point.x;
                 sum_y+= temp_point.y;
                 sum_z+= temp_point.z;
@@ -139,7 +139,7 @@ geometry_msgs::PoseStamped getDiverPosewrtCamera(darknet_ros_msgs::BoundingBox b
     double average_y = sum_y/count_valid_points;
     double average_z = sum_z/count_valid_points;
     std::cout<<"Average Point: "<<average_x<<" "<<average_y<<" "<<average_z<<std::endl;
-    return calculateDiverGlobalPose(drone_pose, average_x, average_y, average_z);
+    return getDiverGlobalPoseUtil(drone_pose, average_x, average_y, average_z);
 
 
 }
@@ -148,29 +148,34 @@ void boundingBoxDepthImageDronePoseCallback(const darknet_ros_msgs::BoundingBoxe
                                             const geometry_msgs::PoseStampedConstPtr& drone_pose_msg){
 
     ///get all the messages
-    darknet_ros_msgs::BoundingBox bbox_main =  bounding_boxes_msg->bounding_boxes[0];
-    const sensor_msgs::PointCloud2 main_point_cloud = *point_cloud_msg;
-    const geometry_msgs::PoseStamped drone_pose = *drone_pose_msg;
+    for(int i =0; i<bounding_boxes_msg->bounding_boxes.size(); i++){
+        if(bounding_boxes_msg->bounding_boxes[i].probability > 0.8){
+            //std::cout<<"PROBABILITY of DIVER: "<<bounding_boxes_msg->bounding_boxes[i].probability<<std::endl;
+            darknet_ros_msgs::BoundingBox bbox_main =  bounding_boxes_msg->bounding_boxes[0];
+            const sensor_msgs::PointCloud2 main_point_cloud = *point_cloud_msg;
+            const geometry_msgs::PoseStamped drone_pose = *drone_pose_msg;
 
-    //get the diver pose wrt camera
-    geometry_msgs::PoseStamped diver_global_pose = getDiverPosewrtCamera(bbox_main, main_point_cloud, drone_pose);
-    //std::cout<<diver_global_pose;
+            //get the diver pose wrt camera
+            geometry_msgs::PoseStamped diver_global_pose = getDiverGlobalPose(bbox_main, main_point_cloud, drone_pose);
+            //std::cout<<measured_diver_global_pose;
 
-    //calculate drone target pose
-    geometry_msgs::PoseStamped drone_target_pose_msg = setDroneTargetPose(diver_global_pose, drone_pose);
-
-
-
-    //publish all TFs for rviz visualization
-    publishTf(drone_pose, "robot");
-    publishTf(diver_global_pose, "diver");
-
-    //publish drone target pose
-    drone_target_pose_msg.header.seq = seq++;
-    std::cout<<drone_target_pose_msg<<std::endl;
-    pub_target_drone_pose.publish(drone_target_pose_msg);
+            //calculate drone target pose
+            geometry_msgs::PoseStamped drone_target_pose_msg = setDroneTargetPose(diver_global_pose, drone_pose);
 
 
+
+            //publish all TFs for rviz visualization
+            publishTf(drone_pose, "robot");
+            publishTf(diver_global_pose, "diver");
+
+            //publish drone target pose
+            drone_target_pose_msg.header.seq = seq++;
+            std::cout<<drone_target_pose_msg<<std::endl;
+            pub_target_drone_pose.publish(drone_target_pose_msg);
+            break;
+
+        }
+    }
 }
 
 

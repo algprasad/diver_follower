@@ -347,6 +347,9 @@ diver_follower_SOURCE_DIR:STATIC=/home/alg/darknet_ros/src/diver_follower
 //The directory containing a CMake configuration file for dynamic_reconfigure.
 dynamic_reconfigure_DIR:PATH=/opt/ros/kinetic/share/dynamic_reconfigure/cmake
 
+//The directory containing a CMake configuration file for filters.
+filters_DIR:PATH=/opt/ros/kinetic/share/filters/cmake
+
 //The directory containing a CMake configuration file for gencpp.
 gencpp_DIR:PATH=/opt/ros/kinetic/share/gencpp/cmake
 
@@ -383,6 +386,27 @@ gmock_build_tests:BOOL=OFF
 //Dependencies for the target
 gmock_main_LIB_DEPENDS:STATIC=general;-lpthread;
 
+//The directory containing a CMake configuration file for grid_map_core.
+grid_map_core_DIR:PATH=/opt/ros/kinetic/share/grid_map_core/cmake
+
+//The directory containing a CMake configuration file for grid_map_cv.
+grid_map_cv_DIR:PATH=/opt/ros/kinetic/share/grid_map_cv/cmake
+
+//The directory containing a CMake configuration file for grid_map_filters.
+grid_map_filters_DIR:PATH=/opt/ros/kinetic/share/grid_map_filters/cmake
+
+//The directory containing a CMake configuration file for grid_map_header.
+grid_map_header_DIR:PATH=/home/alg/underwater_ws/devel/share/grid_map_header/cmake
+
+//The directory containing a CMake configuration file for grid_map_headers.
+grid_map_headers_DIR:PATH=grid_map_headers_DIR-NOTFOUND
+
+//The directory containing a CMake configuration file for grid_map_msgs.
+grid_map_msgs_DIR:PATH=/opt/ros/kinetic/share/grid_map_msgs/cmake
+
+//The directory containing a CMake configuration file for grid_map_ros.
+grid_map_ros_DIR:PATH=/opt/ros/kinetic/share/grid_map_ros/cmake
+
 //Value Computed by CMake
 gtest_BINARY_DIR:STATIC=/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/gtest/gtest
 
@@ -412,7 +436,7 @@ gtest_main_LIB_DEPENDS:STATIC=general;-lpthread;general;gtest;
 image_transport_DIR:PATH=/opt/ros/kinetic/share/image_transport/cmake
 
 //Path to a library.
-lib:FILEPATH=/opt/ros/kinetic/lib/libtf2.so
+lib:FILEPATH=/opt/ros/kinetic/lib/libgrid_map_filters.so
 
 //The directory containing a CMake configuration file for message_filters.
 message_filters_DIR:PATH=/opt/ros/kinetic/share/message_filters/cmake
@@ -422,6 +446,9 @@ message_generation_DIR:PATH=/opt/ros/kinetic/share/message_generation/cmake
 
 //The directory containing a CMake configuration file for message_runtime.
 message_runtime_DIR:PATH=/opt/ros/kinetic/share/message_runtime/cmake
+
+//The directory containing a CMake configuration file for nav_msgs.
+nav_msgs_DIR:PATH=/opt/ros/kinetic/share/nav_msgs/cmake
 
 //The directory containing a CMake configuration file for nodelet.
 nodelet_DIR:PATH=/opt/ros/kinetic/share/nodelet/cmake
@@ -509,6 +536,9 @@ tf_DIR:PATH=/opt/ros/kinetic/share/tf/cmake
 
 //The directory containing a CMake configuration file for topic_tools.
 topic_tools_DIR:PATH=/opt/ros/kinetic/share/topic_tools/cmake
+
+//The directory containing a CMake configuration file for visualization_msgs.
+visualization_msgs_DIR:PATH=/opt/ros/kinetic/share/visualization_msgs/cmake
 
 //The directory containing a CMake configuration file for xmlrpcpp.
 xmlrpcpp_DIR:PATH=/opt/ros/kinetic/share/xmlrpcpp/cmake

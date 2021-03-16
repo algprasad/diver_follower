@@ -240,7 +240,7 @@ void boundingBoxDisparityImageCallback(const darknet_ros_msgs::BoundingBoxesCons
         double average_x = sum_x/num_valid_depths;
         double average_y = sum_y/num_valid_depths;
         std::cout<<"Position of diver wrt camera: "<<average_x<<" "<<average_y<<" "<<average_depth<<std::endl;
-        if(!isnan(average_x) && !isnan(average_y) && !isnan(average_depth)) setDronePose(average_x, average_y, average_depth);
+        if(!std::isnan(average_x) && !std::isnan(average_y) && !std::isnan(average_depth)) setDronePose(average_x, average_y, average_depth);
 
     }
 

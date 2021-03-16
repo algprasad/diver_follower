@@ -5,7 +5,7 @@
 		<Option title="diver_follower"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\opt\;CMake Files\..\..\..\..\..\opt\ros\;CMake Files\..\..\..\..\..\opt\ros\kinetic\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\catkin\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\platform\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\test\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\tools\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\templates\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\em\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\actionlib\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\actionlib\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\actionlib_msgs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\actionlib_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\message_runtime\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\message_runtime\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\cpp_common\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\cpp_common\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roscpp_serialization\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roscpp_serialization\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roscpp_traits\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roscpp_traits\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rostime\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rostime\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\std_msgs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\std_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\genmsg\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\genmsg\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\gencpp\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\gencpp\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\geneus\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\geneus\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\genlisp\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\genlisp\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\gennodejs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\gennodejs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\genpy\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\genpy\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roscpp\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roscpp\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosconsole\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosconsole\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosgraph_msgs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosgraph_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\xmlrpcpp\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\xmlrpcpp\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\geometry_msgs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\geometry_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rospy\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rospy\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\sensor_msgs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\sensor_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\cv_bridge\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\cv_bridge\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\image_transport\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\image_transport\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\message_filters\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\message_filters\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\pluginlib\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\pluginlib\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\class_loader\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\class_loader\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roslib\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roslib\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rospack\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rospack\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\pcl_ros\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\pcl_ros\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\dynamic_reconfigure\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\dynamic_reconfigure\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\nodelet\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\nodelet\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\bondcpp\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\bondcpp\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\bond\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\bond\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\smclib\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\smclib\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\nodelet_topic_tools\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\nodelet_topic_tools\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\pcl_conversions\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\pcl_conversions\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\pcl_msgs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\pcl_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosbag\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosbag\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosbag_storage\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosbag_storage\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roslz4\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roslz4\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\std_srvs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\std_srvs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\topic_tools\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\topic_tools\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf2_ros\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf2_ros\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosgraph\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosgraph\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf2\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf2\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf2_msgs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf2_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\message_generation\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\message_generation\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf2_py\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf2_py\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\OpenCV-3.3.1-dev\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\src\;CMake Files\..\..\..\..\..\usr\src\gmock\;CMake Files\..\..\..\..\..\usr\src\gtest\;CMake Files\..\..\..\..\..\usr\src\gtest\cmake\;CMake Files\..\..\devel\;CMake Files\..\..\devel\share\;CMake Files\..\..\devel\share\darknet_ros\;CMake Files\..\..\devel\share\darknet_ros\cmake\;CMake Files\..\..\devel\share\darknet_ros_msgs\;CMake Files\..\..\devel\share\darknet_ros_msgs\cmake\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\catkin\;CMake Files\cmake-build-debug\catkin\catkin_generated\;CMake Files\cmake-build-debug\catkin\catkin_generated\version\;CMake Files\cmake-build-debug\catkin_generated\;CMake Files\cmake-build-debug\catkin_generated\installspace\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\opt\;CMake Files\..\..\..\..\..\opt\ros\;CMake Files\..\..\..\..\..\opt\ros\kinetic\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\catkin\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\platform\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\test\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\tools\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\templates\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\em\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\actionlib\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\actionlib\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\actionlib_msgs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\actionlib_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\message_runtime\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\message_runtime\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\cpp_common\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\cpp_common\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roscpp_serialization\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roscpp_serialization\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roscpp_traits\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roscpp_traits\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rostime\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rostime\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\std_msgs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\std_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\genmsg\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\genmsg\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\gencpp\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\gencpp\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\geneus\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\geneus\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\genlisp\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\genlisp\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\gennodejs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\gennodejs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\genpy\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\genpy\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roscpp\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roscpp\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosconsole\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosconsole\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosgraph_msgs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosgraph_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\xmlrpcpp\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\xmlrpcpp\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\geometry_msgs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\geometry_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rospy\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rospy\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\sensor_msgs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\sensor_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\cv_bridge\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\cv_bridge\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\image_transport\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\image_transport\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\message_filters\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\message_filters\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\pluginlib\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\pluginlib\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\class_loader\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\class_loader\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roslib\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roslib\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rospack\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rospack\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\pcl_ros\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\pcl_ros\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\dynamic_reconfigure\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\dynamic_reconfigure\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\nodelet\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\nodelet\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\bondcpp\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\bondcpp\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\bond\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\bond\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\smclib\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\smclib\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\nodelet_topic_tools\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\nodelet_topic_tools\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\pcl_conversions\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\pcl_conversions\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\pcl_msgs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\pcl_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosbag\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosbag\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosbag_storage\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosbag_storage\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roslz4\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\roslz4\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\std_srvs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\std_srvs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\topic_tools\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\topic_tools\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf2_ros\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf2_ros\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosgraph\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\rosgraph\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf2\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf2\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf2_msgs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf2_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\message_generation\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\message_generation\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf2_py\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf2_py\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_core\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_core\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_ros\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_ros\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_msgs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_cv\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_cv\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\filters\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\filters\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\nav_msgs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\nav_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\visualization_msgs\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\visualization_msgs\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_filters\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_filters\cmake\;CMake Files\..\..\..\..\..\opt\ros\kinetic\share\OpenCV-3.3.1-dev\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\src\;CMake Files\..\..\..\..\..\usr\src\gmock\;CMake Files\..\..\..\..\..\usr\src\gtest\;CMake Files\..\..\..\..\..\usr\src\gtest\cmake\;CMake Files\..\..\..\underwater_ws\;CMake Files\..\..\..\underwater_ws\devel\;CMake Files\..\..\..\underwater_ws\devel\share\;CMake Files\..\..\..\underwater_ws\devel\share\grid_map_header\;CMake Files\..\..\..\underwater_ws\devel\share\grid_map_header\cmake\;CMake Files\..\..\devel\;CMake Files\..\..\devel\share\;CMake Files\..\..\devel\share\darknet_ros\;CMake Files\..\..\devel\share\darknet_ros\cmake\;CMake Files\..\..\devel\share\darknet_ros_msgs\;CMake Files\..\..\devel\share\darknet_ros_msgs\cmake\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\catkin\;CMake Files\cmake-build-debug\catkin\catkin_generated\;CMake Files\cmake-build-debug\catkin\catkin_generated\version\;CMake Files\cmake-build-debug\catkin_generated\;CMake Files\cmake-build-debug\catkin_generated\installspace\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
@@ -47,6 +47,108 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="diver_tracking_filter">
+				<Option output="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower/diver_tracking_filter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
+					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
+					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
+					<Add directory="/opt/ros/kinetic/include"/>
+					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
+					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
+					<Add directory="//usr/include"/>
+					<Add directory="/home/alg/darknet_ros/devel/.private/darknet_ros_msgs/include"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
+					<Add directory="/usr/lib/openmpi/include"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi"/>
+					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
+					<Add directory="/usr/include/tcl"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
+					<Add directory="/home/alg/freeflyer_build/native/devel/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 diver_tracking_filter"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="diver_tracking_filter/fast">
+				<Option output="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower/diver_tracking_filter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
+					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
+					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
+					<Add directory="/opt/ros/kinetic/include"/>
+					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
+					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
+					<Add directory="//usr/include"/>
+					<Add directory="/home/alg/darknet_ros/devel/.private/darknet_ros_msgs/include"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
+					<Add directory="/usr/lib/openmpi/include"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi"/>
+					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
+					<Add directory="/usr/include/tcl"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
+					<Add directory="/home/alg/freeflyer_build/native/devel/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 diver_tracking_filter/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="list_install_components">
 				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
 				<Option type="4"/>
@@ -67,6 +169,9 @@
 					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
 					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
 					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
 					<Add directory="/opt/ros/kinetic/include"/>
 					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
 					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
@@ -76,14 +181,15 @@
 					<Add directory="/usr/include/pcl-1.7"/>
 					<Add directory="/usr/include/ni"/>
 					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
 					<Add directory="/usr/lib/openmpi/include"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi"/>
-					<Add directory="/usr/include/jsoncpp"/>
-					<Add directory="/usr/include/freetype2"/>
-					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/tcl"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
@@ -114,6 +220,9 @@
 					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
 					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
 					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
 					<Add directory="/opt/ros/kinetic/include"/>
 					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
 					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
@@ -123,14 +232,15 @@
 					<Add directory="/usr/include/pcl-1.7"/>
 					<Add directory="/usr/include/ni"/>
 					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
 					<Add directory="/usr/lib/openmpi/include"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi"/>
-					<Add directory="/usr/include/jsoncpp"/>
-					<Add directory="/usr/include/freetype2"/>
-					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/tcl"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
@@ -151,6 +261,108 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="terrain_aware_diver_following">
+				<Option output="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower/terrain_aware_diver_following" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
+					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
+					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
+					<Add directory="/opt/ros/kinetic/include"/>
+					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
+					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
+					<Add directory="//usr/include"/>
+					<Add directory="/home/alg/darknet_ros/devel/.private/darknet_ros_msgs/include"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
+					<Add directory="/usr/lib/openmpi/include"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi"/>
+					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
+					<Add directory="/usr/include/tcl"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
+					<Add directory="/home/alg/freeflyer_build/native/devel/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 terrain_aware_diver_following"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="terrain_aware_diver_following/fast">
+				<Option output="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower/terrain_aware_diver_following" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
+					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
+					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
+					<Add directory="/opt/ros/kinetic/include"/>
+					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
+					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
+					<Add directory="//usr/include"/>
+					<Add directory="/home/alg/darknet_ros/devel/.private/darknet_ros_msgs/include"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
+					<Add directory="/usr/lib/openmpi/include"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi"/>
+					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
+					<Add directory="/usr/include/tcl"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
+					<Add directory="/home/alg/freeflyer_build/native/devel/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 terrain_aware_diver_following/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="test_pcl">
 				<Option output="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower/test_pcl" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower"/>
@@ -161,6 +373,9 @@
 					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
 					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
 					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
 					<Add directory="/opt/ros/kinetic/include"/>
 					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
 					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
@@ -170,14 +385,15 @@
 					<Add directory="/usr/include/pcl-1.7"/>
 					<Add directory="/usr/include/ni"/>
 					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
 					<Add directory="/usr/lib/openmpi/include"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi"/>
-					<Add directory="/usr/include/jsoncpp"/>
-					<Add directory="/usr/include/freetype2"/>
-					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/tcl"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
@@ -208,6 +424,9 @@
 					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
 					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
 					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
 					<Add directory="/opt/ros/kinetic/include"/>
 					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
 					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
@@ -217,14 +436,15 @@
 					<Add directory="/usr/include/pcl-1.7"/>
 					<Add directory="/usr/include/ni"/>
 					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
 					<Add directory="/usr/lib/openmpi/include"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi"/>
-					<Add directory="/usr/include/jsoncpp"/>
-					<Add directory="/usr/include/freetype2"/>
-					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/tcl"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
@@ -255,6 +475,9 @@
 					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
 					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
 					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
 					<Add directory="/opt/ros/kinetic/include"/>
 					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
 					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
@@ -264,14 +487,15 @@
 					<Add directory="/usr/include/pcl-1.7"/>
 					<Add directory="/usr/include/ni"/>
 					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
 					<Add directory="/usr/lib/openmpi/include"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi"/>
-					<Add directory="/usr/include/jsoncpp"/>
-					<Add directory="/usr/include/freetype2"/>
-					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/tcl"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
@@ -302,6 +526,9 @@
 					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
 					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
 					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
 					<Add directory="/opt/ros/kinetic/include"/>
 					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
 					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
@@ -311,14 +538,15 @@
 					<Add directory="/usr/include/pcl-1.7"/>
 					<Add directory="/usr/include/ni"/>
 					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
 					<Add directory="/usr/lib/openmpi/include"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi"/>
-					<Add directory="/usr/include/jsoncpp"/>
-					<Add directory="/usr/include/freetype2"/>
-					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/tcl"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
@@ -339,11 +567,131 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="grid_map_header_generate_messages_py">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 grid_map_header_generate_messages_py"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="grid_map_header_generate_messages_lisp">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 grid_map_header_generate_messages_lisp"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="grid_map_header_generate_messages_cpp">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 grid_map_header_generate_messages_cpp"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="visualization_msgs_generate_messages_py">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 visualization_msgs_generate_messages_py"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="visualization_msgs_generate_messages_nodejs">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 visualization_msgs_generate_messages_nodejs"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="visualization_msgs_generate_messages_eus">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 visualization_msgs_generate_messages_eus"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="grid_map_msgs_generate_messages_py">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 grid_map_msgs_generate_messages_py"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="grid_map_header_generate_messages_eus">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 grid_map_header_generate_messages_eus"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="grid_map_msgs_generate_messages_nodejs">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 grid_map_msgs_generate_messages_nodejs"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="grid_map_msgs_generate_messages_eus">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 grid_map_msgs_generate_messages_eus"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="tf2_msgs_generate_messages_nodejs">
 				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 tf2_msgs_generate_messages_nodejs"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="visualization_msgs_generate_messages_cpp">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 visualization_msgs_generate_messages_cpp"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="nav_msgs_generate_messages_eus">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 nav_msgs_generate_messages_eus"/>
 					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -374,6 +722,108 @@
 				<Option type="4"/>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 tf_generate_messages_nodejs"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trajectory_generator">
+				<Option output="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower/trajectory_generator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
+					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
+					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
+					<Add directory="/opt/ros/kinetic/include"/>
+					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
+					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
+					<Add directory="//usr/include"/>
+					<Add directory="/home/alg/darknet_ros/devel/.private/darknet_ros_msgs/include"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
+					<Add directory="/usr/lib/openmpi/include"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi"/>
+					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
+					<Add directory="/usr/include/tcl"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
+					<Add directory="/home/alg/freeflyer_build/native/devel/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 trajectory_generator"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trajectory_generator/fast">
+				<Option output="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower/trajectory_generator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
+					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
+					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
+					<Add directory="/opt/ros/kinetic/include"/>
+					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
+					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
+					<Add directory="//usr/include"/>
+					<Add directory="/home/alg/darknet_ros/devel/.private/darknet_ros_msgs/include"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
+					<Add directory="/usr/lib/openmpi/include"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi"/>
+					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
+					<Add directory="/usr/include/tcl"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
+					<Add directory="/home/alg/freeflyer_build/native/devel/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 trajectory_generator/fast"/>
 					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -419,6 +869,16 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="grid_map_msgs_generate_messages_cpp">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 grid_map_msgs_generate_messages_cpp"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="roscpp_generate_messages_py">
 				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
 				<Option type="4"/>
@@ -449,6 +909,9 @@
 					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
 					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
 					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
 					<Add directory="/opt/ros/kinetic/include"/>
 					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
 					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
@@ -458,14 +921,15 @@
 					<Add directory="/usr/include/pcl-1.7"/>
 					<Add directory="/usr/include/ni"/>
 					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
 					<Add directory="/usr/lib/openmpi/include"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi"/>
-					<Add directory="/usr/include/jsoncpp"/>
-					<Add directory="/usr/include/freetype2"/>
-					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/tcl"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
@@ -496,6 +960,9 @@
 					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
 					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
 					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
 					<Add directory="/opt/ros/kinetic/include"/>
 					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
 					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
@@ -505,14 +972,15 @@
 					<Add directory="/usr/include/pcl-1.7"/>
 					<Add directory="/usr/include/ni"/>
 					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
 					<Add directory="/usr/lib/openmpi/include"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi"/>
-					<Add directory="/usr/include/jsoncpp"/>
-					<Add directory="/usr/include/freetype2"/>
-					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/tcl"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
@@ -703,6 +1171,16 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="nav_msgs_generate_messages_cpp">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 nav_msgs_generate_messages_cpp"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="sensor_msgs_generate_messages_lisp">
 				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
 				<Option type="4"/>
@@ -738,6 +1216,16 @@
 				<Option type="4"/>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 std_msgs_generate_messages_cpp"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="grid_map_header_generate_messages_nodejs">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 grid_map_header_generate_messages_nodejs"/>
 					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -793,6 +1281,9 @@
 					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
 					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
 					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
 					<Add directory="/opt/ros/kinetic/include"/>
 					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
@@ -804,14 +1295,15 @@
 					<Add directory="/usr/include/pcl-1.7"/>
 					<Add directory="/usr/include/ni"/>
 					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
 					<Add directory="/usr/lib/openmpi/include"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi"/>
-					<Add directory="/usr/include/jsoncpp"/>
-					<Add directory="/usr/include/freetype2"/>
-					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/tcl"/>
 					<Add directory="/home/alg/freeflyer_build/native/devel/include"/>
 					<Add directory="/usr/include/c++/5"/>
@@ -840,6 +1332,9 @@
 					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
 					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
 					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
 					<Add directory="/opt/ros/kinetic/include"/>
 					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
@@ -851,14 +1346,15 @@
 					<Add directory="/usr/include/pcl-1.7"/>
 					<Add directory="/usr/include/ni"/>
 					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
 					<Add directory="/usr/lib/openmpi/include"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi"/>
-					<Add directory="/usr/include/jsoncpp"/>
-					<Add directory="/usr/include/freetype2"/>
-					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/tcl"/>
 					<Add directory="/home/alg/freeflyer_build/native/devel/include"/>
 					<Add directory="/usr/include/c++/5"/>
@@ -957,6 +1453,16 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="visualization_msgs_generate_messages_lisp">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 visualization_msgs_generate_messages_lisp"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="std_msgs_generate_messages_eus">
 				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
 				<Option type="4"/>
@@ -1037,6 +1543,108 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="diver_filtered_pose">
+				<Option output="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower/diver_filtered_pose" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
+					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
+					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
+					<Add directory="/opt/ros/kinetic/include"/>
+					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
+					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
+					<Add directory="//usr/include"/>
+					<Add directory="/home/alg/darknet_ros/devel/.private/darknet_ros_msgs/include"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
+					<Add directory="/usr/lib/openmpi/include"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi"/>
+					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
+					<Add directory="/usr/include/tcl"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
+					<Add directory="/home/alg/freeflyer_build/native/devel/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 diver_filtered_pose"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="diver_filtered_pose/fast">
+				<Option output="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower/diver_filtered_pose" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
+					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
+					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
+					<Add directory="/opt/ros/kinetic/include"/>
+					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
+					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
+					<Add directory="//usr/include"/>
+					<Add directory="/home/alg/darknet_ros/devel/.private/darknet_ros_msgs/include"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
+					<Add directory="/usr/lib/openmpi/include"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi"/>
+					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
+					<Add directory="/usr/include/tcl"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
+					<Add directory="/home/alg/freeflyer_build/native/devel/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 diver_filtered_pose/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="doxygen">
 				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
 				<Option type="4"/>
@@ -1092,6 +1700,16 @@
 				<Option type="4"/>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 nodelet_generate_messages_lisp"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="grid_map_msgs_generate_messages_lisp">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 grid_map_msgs_generate_messages_lisp"/>
 					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -1177,6 +1795,16 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="nav_msgs_generate_messages_nodejs">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 nav_msgs_generate_messages_nodejs"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="darknet_ros_msgs_generate_messages_py">
 				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
 				<Option type="4"/>
@@ -1207,6 +1835,108 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="diver_measured_pose">
+				<Option output="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower/diver_measured_pose" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
+					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
+					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
+					<Add directory="/opt/ros/kinetic/include"/>
+					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
+					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
+					<Add directory="//usr/include"/>
+					<Add directory="/home/alg/darknet_ros/devel/.private/darknet_ros_msgs/include"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
+					<Add directory="/usr/lib/openmpi/include"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi"/>
+					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
+					<Add directory="/usr/include/tcl"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
+					<Add directory="/home/alg/freeflyer_build/native/devel/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 diver_measured_pose"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="diver_measured_pose/fast">
+				<Option output="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower/diver_measured_pose" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/devel/lib/diver_follower"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
+					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
+					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
+					<Add directory="/opt/ros/kinetic/include"/>
+					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
+					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
+					<Add directory="//usr/include"/>
+					<Add directory="/home/alg/darknet_ros/devel/.private/darknet_ros_msgs/include"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
+					<Add directory="/usr/lib/openmpi/include"/>
+					<Add directory="/usr/lib/openmpi/include/openmpi"/>
+					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
+					<Add directory="/usr/include/tcl"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
+					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
+					<Add directory="/home/alg/freeflyer_build/native/devel/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 diver_measured_pose/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="dynamic_reconfigure_generate_messages_lisp">
 				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
 				<Option type="4"/>
@@ -1232,6 +1962,16 @@
 				<Option type="4"/>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 dynamic_reconfigure_generate_messages_py"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="nav_msgs_generate_messages_py">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 nav_msgs_generate_messages_py"/>
 					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -1277,6 +2017,16 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="nav_msgs_generate_messages_lisp">
+				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 nav_msgs_generate_messages_lisp"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alg/darknet_ros/src/diver_follower/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="pcl_msgs_generate_messages_nodejs">
 				<Option working_dir="/home/alg/darknet_ros/src/diver_follower/cmake-build-debug"/>
 				<Option type="4"/>
@@ -1317,6 +2067,9 @@
 					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
 					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
 					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
 					<Add directory="/opt/ros/kinetic/include"/>
 					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
 					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
@@ -1326,14 +2079,15 @@
 					<Add directory="/usr/include/pcl-1.7"/>
 					<Add directory="/usr/include/ni"/>
 					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
 					<Add directory="/usr/lib/openmpi/include"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi"/>
-					<Add directory="/usr/include/jsoncpp"/>
-					<Add directory="/usr/include/freetype2"/>
-					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/tcl"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
@@ -1364,6 +2118,9 @@
 					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
 					<Add option="-DROS_PACKAGE_NAME=&quot;diver_follower&quot;"/>
 					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
+					<Add option="-DEIGEN_FUNCTORS_PLUGIN=&quot;grid_map_core/eigen_plugins/FunctorsPlugin.hpp&quot;"/>
+					<Add option="-DEIGEN_DENSEBASE_PLUGIN=&quot;grid_map_core/eigen_plugins/DenseBasePlugin.hpp&quot;"/>
+					<Add directory="/home/alg/underwater_ws/devel/.private/grid_map_header/include"/>
 					<Add directory="/opt/ros/kinetic/include"/>
 					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
 					<Add directory="/home/alg/darknet_ros/src/darknet_ros/darknet_ros/include"/>
@@ -1373,14 +2130,15 @@
 					<Add directory="/usr/include/pcl-1.7"/>
 					<Add directory="/usr/include/ni"/>
 					<Add directory="/usr/include/vtk-6.2"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/usr/include/freetype2"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include"/>
 					<Add directory="/usr/lib/openmpi/include"/>
 					<Add directory="/usr/lib/openmpi/include/openmpi"/>
-					<Add directory="/usr/include/jsoncpp"/>
-					<Add directory="/usr/include/freetype2"/>
-					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/libxml2"/>
+					<Add directory="/usr/include/hdf5/serial"/>
+					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/tcl"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev"/>
 					<Add directory="/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"/>
@@ -1774,11 +2532,26 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/src/MeanImputation.h">
+			<Option target="trajectory_generator"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/src/TrackingFilterbackup.cpp">
+			<Option target="diver_tracking_filter"/>
+			<Option target="diver_filtered_pose"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/src/TrackingFilterbackup.h">
+			<Option target="diver_tracking_filter"/>
+			<Option target="diver_filtered_pose"/>
+		</Unit>
 		<Unit filename="/home/alg/darknet_ros/src/diver_follower/src/Utils.h">
+			<Option target="terrain_aware_diver_following"/>
 			<Option target="diver_follower_sync"/>
 		</Unit>
 		<Unit filename="/home/alg/darknet_ros/src/diver_follower/src/diver_depth_calculator.cpp">
 			<Option target="diver_depth_calculator"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/src/diver_filtered_pose.cpp">
+			<Option target="diver_filtered_pose"/>
 		</Unit>
 		<Unit filename="/home/alg/darknet_ros/src/diver_follower/src/diver_follower.cpp">
 			<Option target="diver_follower"/>
@@ -1792,8 +2565,20 @@
 		<Unit filename="/home/alg/darknet_ros/src/diver_follower/src/diver_follower_disparity.cpp">
 			<Option target="diver_follower_disparity"/>
 		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/src/diver_measured_pose.cpp">
+			<Option target="diver_measured_pose"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/src/diver_tracking_filter.cpp">
+			<Option target="diver_tracking_filter"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/src/terrain_aware_diver_following.cpp">
+			<Option target="terrain_aware_diver_following"/>
+		</Unit>
 		<Unit filename="/home/alg/darknet_ros/src/diver_follower/src/test_pcl.cpp">
 			<Option target="test_pcl"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/src/trajectory_generation.cpp">
+			<Option target="trajectory_generator"/>
 		</Unit>
 		<Unit filename="/usr/src/gmock/src/gmock-all.cc">
 			<Option target="gmock_main"/>
@@ -2365,6 +3150,66 @@
 		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/tf2_py/cmake/tf2_pyConfig.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\tf2_py\cmake\"/>
 		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/grid_map_core/cmake/grid_map_core-extras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_core\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/grid_map_core/cmake/grid_map_coreConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_core\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/grid_map_core/cmake/grid_map_coreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_core\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/grid_map_ros/cmake/grid_map_rosConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_ros\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/grid_map_ros/cmake/grid_map_rosConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_ros\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/grid_map_msgs/cmake/grid_map_msgs-msg-extras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_msgs\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/grid_map_msgs/cmake/grid_map_msgsConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_msgs\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/grid_map_msgs/cmake/grid_map_msgsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_msgs\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/grid_map_cv/cmake/grid_map_cvConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_cv\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/grid_map_cv/cmake/grid_map_cvConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_cv\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/filters/cmake/filtersConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\filters\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/filters/cmake/filtersConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\filters\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/nav_msgs/cmake/nav_msgs-msg-extras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\nav_msgs\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/nav_msgs/cmake/nav_msgsConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\nav_msgs\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/nav_msgs/cmake/nav_msgsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\nav_msgs\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/visualization_msgs/cmake/visualization_msgs-msg-extras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\visualization_msgs\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/visualization_msgs/cmake/visualization_msgsConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\visualization_msgs\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/visualization_msgs/cmake/visualization_msgsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\visualization_msgs\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/grid_map_filters/cmake/grid_map_filtersConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_filters\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/grid_map_filters/cmake/grid_map_filtersConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\grid_map_filters\cmake\"/>
+		</Unit>
 		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../opt/ros/kinetic/share/OpenCV-3.3.1-dev/OpenCVConfig-version.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\ros\kinetic\share\OpenCV-3.3.1-dev\"/>
 		</Unit>
@@ -2385,6 +3230,15 @@
 		</Unit>
 		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../../../usr/src/gtest/cmake/internal_utils.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\src\gtest\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../underwater_ws/devel/share/grid_map_header/cmake/grid_map_header-msg-extras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\underwater_ws\devel\share\grid_map_header\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../underwater_ws/devel/share/grid_map_header/cmake/grid_map_headerConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\underwater_ws\devel\share\grid_map_header\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../../underwater_ws/devel/share/grid_map_header/cmake/grid_map_headerConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\underwater_ws\devel\share\grid_map_header\cmake\"/>
 		</Unit>
 		<Unit filename="/home/alg/darknet_ros/src/diver_follower/../../devel/share/darknet_ros/cmake/darknet_rosConfig-version.cmake">
 			<Option virtualFolder="CMake Files\..\..\devel\share\darknet_ros\cmake\"/>

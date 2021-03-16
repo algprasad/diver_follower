@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<launch>
+	<!-- Launch darknet ros -->
+	<include file="$(find darknet_ros)/launch/darknet_alg.launch"/>
+	<include file="$(find diver_follower)/launch/diver_following_filtered_pose.launch"/>
+
+	
+	<!-- diver following main node -->
+	<!--node name="trajectory_generator"
+		pkg="diver_follower"
+		type="trajectory_generator"/ -->
+
+</launch>

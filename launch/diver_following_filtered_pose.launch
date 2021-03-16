@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<launch>
+	<!-- Launch darknet ros -->
+	<!--include file="$(find darknet_ros)/launch/darknet_alg.launch"/ -->
+
+	<!-- measured pose-->
+	<node name="diver_measured_pose"
+		pkg="diver_follower"
+		type="diver_measured_pose"/>
+
+    <!-- measured pose-->
+    <node name="diver_filtered_pose"
+        pkg="diver_follower"
+        type="diver_filtered_pose"/>
+
+</launch>

@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 2.8.3)
 project(diver_follower)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
-# add_compile_options(-std=c++11)
+add_compile_options(-std=c++11)
 
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
@@ -15,6 +15,11 @@ find_package(catkin REQUIRED COMPONENTS
   rospy
   sensor_msgs cv_bridge
   std_msgs darknet_ros darknet_ros_msgs pcl_ros
+  grid_map_core
+  grid_map_ros
+  grid_map_msgs
+  grid_map_filters
+        grid_map_header
 )
 
 find_package(OpenCV REQUIRED)
@@ -216,6 +221,11 @@ add_executable(test_pcl src/test_pcl.cpp)
 add_executable(diver_follower_depth src/diver_follower_depth.cpp)
 add_executable(diver_depth_calculator src/diver_depth_calculator.cpp)
 add_executable(diver_follower_sync src/diver_follower_3sync.cpp src/Utils.h)
+add_executable(terrain_aware_diver_following src/terrain_aware_diver_following.cpp src/Utils.h)
+add_executable(diver_tracking_filter src/diver_tracking_filter.cpp src/TrackingFilterbackup.cpp src/TrackingFilterbackup.h)
+add_executable(diver_measured_pose src/diver_measured_pose.cpp)
+add_executable(diver_filtered_pose src/diver_filtered_pose.cpp src/TrackingFilterbackup.h src/TrackingFilterbackup.cpp)
+add_executable(trajectory_generator src/trajectory_generation.cpp src/MeanImputation.h)
 
 target_link_libraries(diver_follower ${catkin_LIBRARIES})
 target_link_libraries(diver_follower_disparity ${catkin_LIBRARIES} ${OpenCV_LIBRARIES})
@@ -223,3 +233,8 @@ target_link_libraries(test_pcl ${catkin_LIBRARIES} ${OpenCV_LIBRARIES} )
 target_link_libraries(diver_follower_depth ${catkin_LIBRARIES} ${OpenCV_LIBRARIES} )
 target_link_libraries(diver_depth_calculator ${catkin_LIBRARIES} ${OpenCV_LIBRARIES} )
 target_link_libraries(diver_follower_sync ${catkin_LIBRARIES} ${OpenCV_LIBRARIES} )
+target_link_libraries(terrain_aware_diver_following ${catkin_LIBRARIES} ${OpenCV_LIBRARIES})
+target_link_libraries(diver_tracking_filter ${catkin_LIBRARIES} ${OpenCV_LIBRARIES})
+target_link_libraries(diver_measured_pose ${catkin_LIBRARIES} ${OpenCV_LIBRARIES})
+target_link_libraries(diver_filtered_pose ${catkin_LIBRARIES} ${OpenCV_LIBRARIES})
+target_link_libraries(trajectory_generator ${catkin_LIBRARIES} ${OpenCV_LIBRARIES})
