@@ -20,13 +20,14 @@ geometry_msgs::PoseStamped robot_current_pose, diver_pose;
 int num_steps_diver_robot = 10;
 
 //declaring as global variables whose values will be assingned later from the rosparam server
-double distance_to_maintain = 2.5;
+double distance_to_maintain = 1.5;
 double grid_resolution = 0.4;
 double time_between_waypoints = 0.500000000;
-double zhiang_factor = 0.75; //multiplied to the z-vector NOT normal vect                                                                                         or
+double zhiang_factor = 0.75; //multiplied to the z-vector NOT normal vector
 
 std::string trajectory_topic = "iris_depth_camera/command/trajectory";
 bool elevation_map_recieved = false;
+bool diver_pose_filtered_recieved = false; 
 
 
 Eigen::Vector3d getCombinedUnitVector(Eigen::Matrix<double, 3, 1> matrix);
@@ -57,6 +58,7 @@ void elevationMapCallback(const grid_map_msgs::GridMap grid_map_msg){
 
 void diverPoseCallback(const geometry_msgs::PoseStampedConstPtr& diver_pose_msg){
     diver_pose = *diver_pose_msg;
+    diver_pose_filtered_recieved = true; 
 }
 
 void initializePoseCommand(){
@@ -388,16 +390,16 @@ int main(int argc, char **argv){
 
     ros::Time previous_time = ros::Time::now();
 
-    initializePoseCommand();
+    //initializePoseCommand();
 
-    while(current_grid_map.getSize()[0] <=0 ){
-        //std::cout<<"here"<<std::endl;
+    while(current_grid_map.getSize()[0] <=0 || !diver_pose_filtered_recieved ){
+        std::cout<<"here"<<std::endl;
         ros::spinOnce();
     }
 
     while(ros::ok()){
 
-        nav_msgs::Path rviz_path_msg;
+        //nav_msgs::Path rviz_path_msg;
         generateTrajectoryUnitMethod();
         //generateLocalTrajectory(rviz_path_msg);
         //generateTrajectoryTRN(rviz_path_msg);
